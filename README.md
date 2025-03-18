@@ -1,3 +1,5 @@
+## Text to SQL Agent
+
 Text to SQL agent developed using smolagents library and Qwen2.5-72B-Instruct model.
 The model can automatically create aggregate functions and join sql queries based on text description.
 
